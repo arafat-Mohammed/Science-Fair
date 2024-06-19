@@ -500,20 +500,6 @@
                 height: 350px;
             }
         }
-        @media(max-width: 375px){
-            .coment-1{
-                height: 370px;
-            }
-            .coment-1{
-                top: 90%;
-            }
-            .coment-2{
-                top: 160%;
-            }
-            .coment-3{
-                top: 230%;
-            }
-        }
         @media(max-width: 360px){
             .coment-1,.coment-2, .coment-3{
                 height: 350px;
